@@ -1,0 +1,52 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.app
+*.so
+*.dll
+*.dylib
+
+# Qt generated files
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.moc
+
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+
+# Build directories
+debug/
+release/
+build/
+build-*/
+
+# Makefiles
+Makefile
+Makefile.*
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Data files (optional, comment out if you want to track them)
+*.json
+gradedata.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp

@@ -1,0 +1,17 @@
+debug/main.o
+debug/Person.o
+debug/Student.o
+debug/Professor.o
+debug/Course.o
+debug/Grade.o
+debug/GradeManager.o
+debug/MainWindow.o
+debug/StudentDialog.o
+debug/CourseDialog.o
+debug/GradeDialog.o
+debug/ProfessorDialog.o
+debug/moc_MainWindow.o
+debug/moc_StudentDialog.o
+debug/moc_CourseDialog.o
+debug/moc_GradeDialog.o
+debug/moc_ProfessorDialog.o
